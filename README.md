@@ -1,0 +1,2 @@
+# noptquotes
+better fortune
